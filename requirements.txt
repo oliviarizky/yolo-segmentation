@@ -1,0 +1,4 @@
+ultralytics==8.1.0
+gradio
+Pillow
+matplotlib
